@@ -57,3 +57,5 @@ mem_cards = get_memory_card_by_rank(4)
 print(mem_cards)
 
 conn.close()
+
+print("test test test")
